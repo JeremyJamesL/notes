@@ -1,3 +1,4 @@
 # Vanilla JS Notes
 
-# anonymous functions 
+# anonymous function
+ 
