@@ -2,7 +2,7 @@
 
 ## Closures
 
-A **Closure** is when an inner function has access to the function of its outer scope. 
+A **Closure** is when an inner function has access to the scope of its outer function. 
 
 ```javascript
 function retirement(retirementAge) {
