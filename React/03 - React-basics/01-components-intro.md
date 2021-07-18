@@ -1,6 +1,6 @@
 # Components intro
 
-React is all about **components**. A component is a block of code that could combine html, css and js into a reusable component, or section of code, that can be replicated across an interface.
+React is all about **components**. A component is a block of code that can combine html, css and js into a reusable component, or section of code, that can be replicated across an interface.
 
 ## How is a component built?
 
