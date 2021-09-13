@@ -4,8 +4,8 @@ State is a key concept in react.
 
 To clarify:
 
-1. Use registers a state for the component in which it is being called.
-2. Each component, whether the same, received its own state. It's a per component instance basis, even if the same component is used more than once: e.g:
+1. User registers a state for the component in which it is being called.
+2. Each component, whether the same, receives its own state. It's a per component instance basis, even if the same component is used more than once: e.g:
 
 ```JSX
 const [title, setTitle] = useState(props.title);
@@ -34,7 +34,7 @@ And the custom component is used 4 times:
 
 The change will only occur on the instance of the Card where the button click occurs.
 
-> State is separate on a per-component instance basis.
+> State is separated on a per-component instance basis.
 
 3. Note that when we use `const` for `useState`, we aren't using it for the variable `props.title`, but instead to register the state. The actual variable `props.title` change is handled elsewhere by React. So we aren't changing a constant here, which is not possible in JS.
 
