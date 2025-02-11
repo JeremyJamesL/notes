@@ -1,5 +1,3 @@
-# Introduction
-
 ## What's AWS?
 
 Amazon Web Servbices (AWS) is a cloud provider.
