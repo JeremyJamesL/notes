@@ -1,5 +1,3 @@
-## What's AWS?
-
 Amazon Web Servbices (AWS) is a cloud provider.
 
 It provides servers and services on demand that can easily scale.
